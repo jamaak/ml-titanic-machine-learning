@@ -4,8 +4,8 @@ survival(Selamat)                   : 0 = Tidak Selamat | 1 = Selamat
 pclass(Tiket Kelas)                 : 1 = First Class | 2 = Middle Class | 3 = Upper Class
 sex (Jenis Gender)
 age (Umur dalam satuan tahun)
-sibsp (Banyaknya saudara/pasangan)
-parch (Banyaknya anak/orang tua)
+sibsp (Banyaknya saudara/pasangan yg ikut)
+parch (Banyaknya anak/orang tua yg ikut)
 ticket (Nomor Tiket)
 fare (Tarif Penumpang)
 cabin (Nomor Cabin Penumpang)
